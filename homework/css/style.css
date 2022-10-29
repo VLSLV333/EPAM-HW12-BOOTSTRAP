@@ -5,3 +5,9 @@ body{
 .bg-grey{
    background-color: #343a40; 
 }
+.bg-orange{
+   background-color: #ff7f50;
+}
+.bg-orange:hover{
+   background-color: #fb581c;
+}
