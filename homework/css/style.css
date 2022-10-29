@@ -11,3 +11,6 @@ body{
 .bg-orange:hover{
    background-color: #fb581c;
 }
+.hover:hover{
+   background-color: #000000;
+}
